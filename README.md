@@ -1,19 +1,5 @@
 # Happy Island Designer (Alpha)
 
-Create your own at:
-https://eugeneration.github.io/HappyIslandDesigner/
-
-Report bugs in the Issues tab or on the [Discord](https://discord.gg/EtaqD5H)
-
-![screenshot](thumbnail.png)
-
-## Introduction
-
-Once I saw that you could customize your island in the AC direct, I was inspired to make a tool that lets you make your own island. Several dozen hours of work later, I have this! This is an alpha build, so some things may be wonky, and the maps data may become incompatible with future versions.
-
-Click here for [technical details](/docs/README-technical.md).
-
-Click here for [local development info](/docs/README-localdev.md).
 
 ## Features
 
@@ -71,4 +57,3 @@ People could help me by recreating these 24 maps and sending me the map data, ei
 
 ![base maps](/docs/base-nh-maps.png)
 
-To see which maps have already been contributed, please reference [issue #59](https://github.com/eugeneration/HappyIslandDesigner/issues/59).
